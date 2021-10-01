@@ -18,10 +18,10 @@
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-[![image](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)](https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)
 
-[![image](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link= https://linktr.ee/jotajotasc)](https://linktr.ee/jotajotasc)
-
+<a href="https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177//">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+ 
 
 ## Languages and tools
 
