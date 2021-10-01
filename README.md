@@ -19,9 +19,12 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177//">
+<a href="https://github.com/JoseJorge-econ//">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
- 
+
+<a href="mailto:<"coutofonseca@gmail.com">" alt="coutofonseca@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
+
 
 ## Languages and tools
 
