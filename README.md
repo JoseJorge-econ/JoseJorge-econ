@@ -16,8 +16,8 @@
 
 ## How to reach me 
 
-[![image](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoseJorge-econ/Portifolio](https://github.com/JoseJorge-econ/Portifolio)
-
+<a href="https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 [![image](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)](https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)
 
 [![image](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link= https://linktr.ee/jotajotasc)](https://linktr.ee/jotajotasc)
