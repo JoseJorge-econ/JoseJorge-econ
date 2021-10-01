@@ -16,9 +16,9 @@
 
 ## How to reach me 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/JoseJorge-econ/Portifolio)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoseJorge-econ/Portifolio](https://github.com/JoseJorge-econ/Portifolio)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)](https://www.linkedin.com/in/jos%C3%A9-couto-9a5303177/)
 
 [![Linktree Badge](	https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 &link= LINK_LINKTREE)](https://linktr.ee/jotajotasc)
