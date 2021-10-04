@@ -1,4 +1,4 @@
-# Wello World! :earth_americas:
+# Hello World! :earth_americas:
 
  ## I'm José Jorge!
 
